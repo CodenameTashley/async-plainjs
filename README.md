@@ -1,2 +1,2 @@
 # async-plainjs
-playing aroung with async in js
+playing around with async in js
